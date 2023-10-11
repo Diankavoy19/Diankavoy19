@@ -45,15 +45,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="30" height="30"/>&nbsp
 </div>
 <br />
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-START_SECTION:activity
-1. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-2. 🗣 Commented on [#120](https://github.com/codeSTACKr/minter-dapp/issues/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-3. ❌ Closed PR [#191](https://github.com/codeSTACKr/create-10k-nft-collection/pull/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. 🗣 Commented on [#191](https://github.com/codeSTACKr/create-10k-nft-collection/issues/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. 🎉 Merged PR [#204](https://github.com/codeSTACKr/create-10k-nft-collection/pull/204) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-END_SECTION:activity
+<!--START_SECTION:activity-->
+<!-- 1. 🎉 Merged PR [#4](https://github.com/AZANIR/cypress-cucumber/pull/4) in [AZANIR/cypress-cucumber](https://github.com/AZANIR/cypress-cucumber)
+2. 💪 Opened PR [#4](https://github.com/AZANIR/cypress-cucumber/pull/4) in [AZANIR/cypress-cucumber](https://github.com/AZANIR/cypress-cucumber) -->
+<!--END_SECTION:activity-->
 
 </details> -->
 ---
