@@ -13,9 +13,6 @@
    Let's Connect and have a Chat!
 </h1>
 <p align="center">
-<a href="https://t.me/Diankavoy">
-  <img height="32" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"/>
-</a>
 <a href="https://www.linkedin.com/in/diana-voitsekhovska/">
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png"/>
 </a>
